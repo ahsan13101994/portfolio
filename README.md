@@ -2,7 +2,9 @@
 
 This project was Trailwind with [Create React App](https://github.com/facebook/create-react-app).
 
-Deployed Link to My Portfolio: https://ahsan13101994.github.io/MY-Portfolio/
+Deployed Link to My Portfolio: https://ahsan13101994.github.io/portfolio/
+
+Old Repo for the breakdown: https://github.com/ahsan13101994/MY-Portfolio
 
 
 ## Available Scripts
@@ -67,6 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+
+To deploy on the site run the following command:
+### `npm run deploy`
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
